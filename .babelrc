@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "es2015",
+    "stage-0",
+    "env", 
+    "react"
+  ],
+  "plugins": [
+    "transform-class-properties",
+    "transform-decorators-legacy"
+  ]
+}
+// TODO: https://github.com/gaearon/redux-devtools/commit/64f58b7010a1b2a71ad16716eb37ac1031f93915
